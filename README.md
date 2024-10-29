@@ -43,4 +43,4 @@ MySQL là một hệ quản trị cơ sở dữ liệu mã nguồn mở phổ bi
 - **Android Studio**: Để phát triển ứng dụng trên nền tảng Android, cung cấp các công cụ mạnh mẽ để thiết kế giao diện và lập trình.
 - **Firebase**: Để lưu trữ thông tin người dùng và danh sách bài hát, cung cấp khả năng đồng bộ dữ liệu theo thời gian thực.
 - **Vai trò của tôi**: Tôi là lập trình viên frontend, phụ trách phát triển giao diện người dùng và tích hợp với API để lấy dữ liệu âm nhạc.
-### liên hệ với tôi qua email:huynhhuy17112004@gmail.com hoặc số điện thoại:0565565988
+### liên hệ với tôi qua email: huynhhuy17112004@gmail.com hoặc số điện thoại: 0565565988
