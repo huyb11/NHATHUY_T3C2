@@ -40,6 +40,6 @@ MySQL là một hệ quản trị cơ sở dữ liệu mã nguồn mở phổ bi
 
 - **Mô tả**: Dự án này là một ứng dụng di động cho phép người dùng nghe nhạc trực tuyến, tạo danh sách phát, và khám phá các bài hát mới. Ứng dụng cung cấp giao diện dễ sử dụng và trải nghiệm nghe nhạc mượt mà.
 - **Công nghệ sử dụng**:
-  - **Android Studio**: Để phát triển ứng dụng trên nền tảng Android, cung cấp các công cụ mạnh mẽ để thiết kế giao diện và lập trình.
+- **Android Studio**: Để phát triển ứng dụng trên nền tảng Android, cung cấp các công cụ mạnh mẽ để thiết kế giao diện và lập trình.
 - **Firebase**: Để lưu trữ thông tin người dùng và danh sách bài hát, cung cấp khả năng đồng bộ dữ liệu theo thời gian thực.
 - **Vai trò của tôi**: Tôi là lập trình viên frontend, phụ trách phát triển giao diện người dùng và tích hợp với API để lấy dữ liệu âm nhạc.
